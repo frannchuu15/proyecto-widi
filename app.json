@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PlanillaDeSeguimiento3",
-    "slug": "PlanillaDeSeguimiento3",
+    "name": "planilladeseguimiento",
+    "slug": "planilladeseguimiento",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
